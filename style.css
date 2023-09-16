@@ -1,0 +1,103 @@
+/* banner start here */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 63px;
+}
+
+h2 {}
+
+h3 {
+    font-size: 32px;
+    margin: 0;
+}
+
+p {
+    color: #3E3E3E;
+    font-size: 24px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.first-half {
+    width: 50%;
+    margin-top: 120px;
+    margin-left: 11%;
+}
+
+
+.article-paragraph {
+    margin-bottom: 43px;
+}
+
+.stay-focus {
+    color: #333333;
+    font-family: 'Yeseva One', cursive;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 105px;
+    padding-left: 18px;
+    margin-bottom: 5px;
+    border-left: 5px solid #FF5959;
+}
+
+.orange-color {
+    color: #FFAD5A;
+}
+
+.link-btn {
+    color: white;
+    font-size: 21px;
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 17px 50px;
+    border-radius: 7px;
+}
+
+.scroll-down {
+    font-size: 21px;
+    margin-top: 60px;
+}
+
+.second-half {
+    width: 50%;
+}
+
+.second-half img {
+    width: 66%;
+}
+
+/* banner end here */
+
+/* my mission start */
+.my-mission h1 {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.my-mission-container {
+    margin: 0 11%;
+}
+
+.my-mission-sub {
+    background-color: #fff9d7;
+    margin: 0 10px;
+    padding: 35px 40px;
+    border-radius: 33px;
+}
+
+.my-mission-sub img {
+    width: 50%;
+}
+
+.my-mission-sub p {
+    font-size: 21px;
+}
+
+/* my mission end */
