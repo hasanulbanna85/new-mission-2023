@@ -8,7 +8,9 @@ h1 {
     font-size: 63px;
 }
 
-h2 {}
+h2 {
+    font-size: 50px;
+}
 
 h3 {
     font-size: 32px;
@@ -82,7 +84,9 @@ p {
 }
 
 .my-mission-container {
-    margin: 0 11%;
+    /* margin: 0 11%; */
+    margin-left: 11%;
+    margin-right: 11%;
 }
 
 .my-mission-sub {
@@ -101,3 +105,18 @@ p {
 }
 
 /* my mission end */
+
+/* Develop Without Limits starts */
+.first-half-dwl {
+    width: 50%;
+}
+
+.first-half-dwl img {
+    width: 70%;
+}
+
+.second-half-dwl {
+    width: 50%;
+}
+
+/* Develop Without Limits end */
