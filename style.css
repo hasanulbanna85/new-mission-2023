@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 48px;
 }
 
 h3 {
@@ -55,7 +55,7 @@ p {
 
 .link-btn {
     color: white;
-    font-size: 21px;
+    font-size: 20px;
     text-decoration: none;
     background-color: #FF5959;
     padding: 17px 50px;
@@ -78,15 +78,19 @@ p {
 /* banner end here */
 
 /* my mission start */
+.my-mission {
+    margin-bottom: 20px;
+}
+
 .my-mission h1 {
     text-align: center;
     margin-bottom: 70px;
 }
 
 .my-mission-container {
-    /* margin: 0 11%; */
-    margin-left: 11%;
-    margin-right: 11%;
+    display: flex;
+    margin: 0 11%;
+    margin-bottom: 120px;
 }
 
 .my-mission-sub {
@@ -107,16 +111,27 @@ p {
 /* my mission end */
 
 /* Develop Without Limits starts */
+
 .first-half-dwl {
-    width: 50%;
+    width: 40%;
 }
 
 .first-half-dwl img {
-    width: 70%;
+    width: 90%;
 }
 
-.second-half-dwl {
-    width: 50%;
+.second-hal-dwl {
+    width: 60%;
+    margin-top: 15px;
+    margin-left: 33px;
+}
+
+.second-hal-dwl h2 {
+    margin-bottom: 0;
+}
+
+.second-hal-dwl p {
+    margin-bottom: 38px;
 }
 
 /* Develop Without Limits end */
