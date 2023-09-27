@@ -151,3 +151,38 @@ p {
 }
 
 /* Know our Global Community end */
+
+/* Contact Me start */
+#contact-me-img {
+    margin-top: 50px;
+}
+
+#name {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 0;
+}
+
+#email {
+    margin-left: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 0;
+}
+
+#subject {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 0;
+}
+
+#message {
+    margin-bottom: 48px;
+    padding: 10px 10px 85px 10px;
+    border: 1px solid black;
+    border-radius: 0;
+}
+
+/* Contact Me end*/
