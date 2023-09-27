@@ -186,3 +186,28 @@ p {
 }
 
 /* Contact Me end*/
+
+/* footer start */
+footer {
+    text-align: center;
+    background-color: rgb(13, 1, 29);
+    padding: 18px 0;
+}
+
+footer h2 {
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+.footer-header-color {
+    color: #FF5959;
+}
+
+footer p {
+    font-size: 18px;
+    color: white;
+    padding-bottom: 20px;
+}
+
+/* footer end */
